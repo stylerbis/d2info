@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
   homeSubtitle = "Destiny 2 Info"
 
   # Set a background for the homepage
-  backgroundImage = "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg?t=1720218333"
+  backgroundImage = "https://assets-prd.ignimgs.com/2023/02/14/destiny2-seasonoftheseraph-finalecutscene-blogroll-1676415741898.jpg"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
@@ -74,7 +74,7 @@ disableHugoGeneratorInject = false
   # Per default, this option is off. 
   # The theme is respecting the prefers-color-scheme of the operating system. 
   # With this option on, the page user is able to set the scheme he wants. 
-  enableThemeToggle = false
+  enableThemeToggle = true
 
   # Sharing buttons
   #
