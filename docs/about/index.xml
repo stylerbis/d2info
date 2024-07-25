@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Destiny 2 Info</title>
-    <link>https://d2info.algotician.com/</link>
-    <description>Recent content on Destiny 2 Info</description>
+    <title>Abouts on Destiny 2 Info</title>
+    <link>https://d2info.algotician.com/about/</link>
+    <description>Recent content in Abouts on Destiny 2 Info</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 24 Jul 2024 23:31:50 -0400</lastBuildDate>
-    <atom:link href="https://d2info.algotician.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://d2info.algotician.com/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://d2info.algotician.com/about/aboutme/</link>
       <pubDate>Wed, 24 Jul 2024 23:31:50 -0400</pubDate>
       <guid>https://d2info.algotician.com/about/aboutme/</guid>
       <description>Hi. My name is Tyler. I&amp;rsquo;m just a dev who love Destiny 2 and Cyber Security. This page is a lazy attempt at getting Destiny 2 updates without having to look at patch notes. If you find them helpful, awesome!</description>
-    </item>
-    <item>
-      <title>First Post</title>
-      <link>https://d2info.algotician.com/posts/2024/07/first-post/</link>
-      <pubDate>Wed, 24 Jul 2024 23:00:05 -0400</pubDate>
-      <guid>https://d2info.algotician.com/posts/2024/07/first-post/</guid>
-      <description>This is my first post. Every post from here on out will be a post showing exclusively new additions to Destiny 2. Enjoy!</description>
     </item>
   </channel>
 </rss>
